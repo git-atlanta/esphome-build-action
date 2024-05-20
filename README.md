@@ -1,3 +1,6 @@
+support LuatOS ESP32C3
+
+
 # ESPHome Build action
 
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/esphome/build-action)
